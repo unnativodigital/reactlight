@@ -1,0 +1,34 @@
+#semaforo {
+  width: 70px;
+  height: 240px;
+  background: #222;
+  border-radius: 8px;
+  margin: auto;
+  padding: 15px;
+}
+
+.luz {
+  display: inline-block;
+  border-radius: 100%;
+  width: 70px;
+  height: 70px;
+  margin-bottom: 8px;
+  opacity: 0.2;
+  transition: opacity 0.2s
+}
+
+.activa {
+  opacity: 1;
+}
+
+.roja {
+  background: red;
+}
+
+.amarilla {
+  background: yellow;
+}
+
+.verde {
+  background: green;
+}

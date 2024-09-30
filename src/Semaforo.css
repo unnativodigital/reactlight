@@ -25,10 +25,27 @@
   background: red;
 }
 
+/* .roja:hover {
+  border: 2px yellow solid;
+  background-color: red;
+  opacity: 3;
+} */
+
 .amarilla {
   background: yellow;
 }
 
+/* .amarilla:hover{
+  border: 2px yellow solid;
+  background: yellow;
+  opacity: 3;
+} */
+
 .verde {
   background: green;
 }
+
+/* .verde:hover{
+  border: 2px yellow solid;
+  opacity: 3;
+} */
